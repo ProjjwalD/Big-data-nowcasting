@@ -29,7 +29,7 @@ Ensure you have R installed on your computer. You can download it from [CRAN](ht
 ### Running the Script
 Load and execute the script in RStudio:
 ```R
-source("FinalAssignmentAnswers.R")
+source("Code.R")
 ```
 
 ## Contributing
