@@ -35,9 +35,6 @@ source("Code.R")
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Ministry of Statistics and Programme Implementation, Government of India, for providing GDP data.
 - Google Trends for providing access to search trend data.
